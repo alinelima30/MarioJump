@@ -32,5 +32,8 @@ git clone https://github.com/alinelima30/MarioJump.git
 3. Divirta-se jogando!
 
 ## 📝 Licença
+Este projeto está licenciado sob os termos da `MIT License`.
+Para mais informações, consulte o arquivo [LICENSE](https://link-da-sua-licenca.com)
+
 
 
