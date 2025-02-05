@@ -37,5 +37,5 @@ Para mais informações, consulte o arquivo [LICENSE](https://github.com/alineli
 
 ## Autor
 Desenvolvido por: *Aline Lima*
-<p>Contato: <a href="mailto:alimary1994@gmail.com">email</a></p>
+<p>Contato: <a href="mailto:alimary1994@gmail.com">e-mail</a></p>
 
