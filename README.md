@@ -19,13 +19,18 @@ Se quiser modificar ou contribuir para o projeto diretamente do celular, siga es
 ## 📌 Melhorias futuras
 - Adicionar mais obstáculos e desafios, mudar cenário;
 - Criar um sistema de pontuação;
-- Adicionar botões de iniciar e reiniciar;
+- Adicionar botões de iniciar e reiniciar e/ou setas;
 - Descobrir e resolver falhas que interfere nos áudios...
 
 ## 🚀 Como executar
 1. Baixe ou clone o repositório:
    
-bash
+ ```bash
 git clone https://github.com/alinelima30/MarioJump.git
-bash
+```
+2. Abra o arquivo index.html em um navegador.
+3. Divirta-se jogando!
+
+## 📝 Licença
+Este projeto é de código aberto. Sinta-se à vontade para contribuir.
 
